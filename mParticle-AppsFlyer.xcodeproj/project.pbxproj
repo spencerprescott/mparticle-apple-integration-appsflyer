@@ -229,12 +229,12 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/AppsFlyerTracker.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/AppsFlyerLib.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/mParticle_Apple_SDK.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/OCMock.framework",
 			);
 			outputPaths = (
-				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/AppsFlyerTracker.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/AppsFlyerLib.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/mParticle_Apple_SDK.framework",
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/OCMock.framework",
 			);
